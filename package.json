@@ -16,11 +16,13 @@
     "concurrently": "^9.2.1",
     "nodemon": "^3.1.11",
     "prisma": "^6.19.0",
+    "ts-node-dev": "^2.0.0",
     "typescript": "^5.9.3"
   },
   "dependencies": {
     "@prisma/client": "^6.19.0",
     "dotenv": "^17.2.3",
-    "express": "^5.1.0"
+    "express": "^5.1.0",
+    "pg": "^8.16.3"
   }
 }
